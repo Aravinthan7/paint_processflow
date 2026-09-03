@@ -1350,8 +1350,11 @@
       "imageFile": "images/step_1787659649800_tupzk.png"
     }
   ],
-  "exportedAt": "2026-08-28T09:08:41.877Z",
+  "exportedAt": "2026-09-03T09:42:46.544Z",
   "reviewStatus": "draft",
   "reviewSubmittedBy": "",
-  "reviewSubmittedAt": null
+  "reviewSubmittedAt": null,
+  "versionPrefix": "v",
+  "versionMajor": 4,
+  "versionMinor": 4
 }
