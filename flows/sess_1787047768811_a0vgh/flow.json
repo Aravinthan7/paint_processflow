@@ -1348,28 +1348,9 @@
         "waitingDuration": null
       },
       "imageFile": "images/step_1787659649800_tupzk.png"
-    },
-    {
-      "id": "step_1788426104361_a2003",
-      "order": 15,
-      "title": "Blank Step 16",
-      "description": "",
-      "notes": "",
-      "appName": "",
-      "stepType": "click",
-      "instruction": "",
-      "actionType": "left_click",
-      "bgColor": "#ffffff",
-      "x": null,
-      "y": null,
-      "hotspot": null,
-      "annotations": [],
-      "blurRegions": [],
-      "metadata": {},
-      "imageFile": null
     }
   ],
-  "exportedAt": "2026-09-03T09:02:26.141Z",
+  "exportedAt": "2026-09-02T10:10:15.320Z",
   "reviewStatus": "draft",
   "reviewSubmittedBy": "",
   "reviewSubmittedAt": null
