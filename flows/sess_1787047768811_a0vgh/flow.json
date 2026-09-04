@@ -275,7 +275,26 @@
         "width": 1286.5,
         "height": 678.5
       },
-      "annotations": [],
+      "annotations": [
+        {
+          "type": "callout",
+          "x": 325.6338028169014,
+          "y": 186.88128772635815,
+          "width": 256.4185110663984,
+          "height": 240.48289738430583,
+          "text": "Callout asdsd",
+          "tailX": 295.6338028169014,
+          "tailY": 307.12273641851107,
+          "pointerSide": "left",
+          "color": "#0ea5e9",
+          "bgColor": "#ffffff",
+          "textColor": "#000000",
+          "lineWidth": 2,
+          "fontSize": 13,
+          "id": "ann_1788511705658_1sd7q",
+          "htmlContent": "Callout asdsd"
+        }
+      ],
       "blurRegions": [],
       "metadata": {
         "ActionType": "window_focus",
@@ -283,7 +302,7 @@
         "AppName": "iBPM and 7 more pages - Work - Microsoft​ Edge",
         "WindowTitle": "iBPM and 7 more pages - Work - Microsoft​ Edge",
         "scenarioPassed": null,
-        "detectionMethod": "none",
+        "detectionMethod": "manual",
         "needsCv": false,
         "targetName": "iBPM and 7 more pages - Work - Microsoft​ Edge",
         "elementBounds": {
@@ -1287,11 +1306,11 @@
       "imageFile": "images/step_1787659649800_tupzk.png"
     }
   ],
-  "exportedAt": "2026-09-04T08:47:20.414Z",
+  "exportedAt": "2026-09-04T08:49:58.830Z",
   "reviewStatus": "draft",
   "reviewSubmittedBy": "",
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 4,
-  "versionMinor": 11
+  "versionMinor": 12
 }

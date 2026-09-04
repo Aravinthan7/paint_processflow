@@ -44,6 +44,15 @@
       "authorEmail": "checker@itrace.local",
       "body": "new",
       "createdAt": "2026-09-02 09:02:59"
+    },
+    {
+      "id": "comment_1788511733638_947o34",
+      "stepId": "step_1787659528919_kw4du",
+      "authorName": "Maya Patel",
+      "authorRole": "maker",
+      "authorEmail": "maker@itrace.local",
+      "body": "hello",
+      "createdAt": "2026-09-04 08:48:53"
     }
   ]
 }
