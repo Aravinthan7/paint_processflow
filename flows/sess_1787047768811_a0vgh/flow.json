@@ -95,7 +95,7 @@
         "interactionId": "1787659521507_4uaz4ln",
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": 1
+        "waitingDuration": 2
       },
       "imageFile": "images/step_1787659523767_zhjrr.png"
     },
@@ -1350,11 +1350,11 @@
       "imageFile": "images/step_1787659649800_tupzk.png"
     }
   ],
-  "exportedAt": "2026-09-04T05:27:46.201Z",
+  "exportedAt": "2026-09-04T06:03:36.709Z",
   "reviewStatus": "draft",
   "reviewSubmittedBy": "",
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 4,
-  "versionMinor": 7
+  "versionMinor": 9
 }
