@@ -277,6 +277,10 @@
       },
       "annotations": [
         {
+          "fontSize": 13,
+          "bgColor": "#ffffff",
+          "color": "#0ea5e9",
+          "textColor": "#000000",
           "type": "callout",
           "x": 325.6338028169014,
           "y": 186.88128772635815,
@@ -286,11 +290,7 @@
           "tailX": 295.6338028169014,
           "tailY": 307.12273641851107,
           "pointerSide": "left",
-          "color": "#0ea5e9",
-          "bgColor": "#ffffff",
-          "textColor": "#000000",
           "lineWidth": 2,
-          "fontSize": 13,
           "id": "ann_1788511705658_1sd7q",
           "htmlContent": "Callout asdsd"
         }
@@ -334,7 +334,7 @@
         "calloutOffsetY": 0,
         "value": "",
         "key": "",
-        "waitingDuration": null
+        "waitingDuration": 1.5
       },
       "imageFile": "images/step_1787659528919_kw4du.png"
     },
@@ -1306,11 +1306,11 @@
       "imageFile": "images/step_1787659649800_tupzk.png"
     }
   ],
-  "exportedAt": "2026-09-04T08:49:58.830Z",
+  "exportedAt": "2026-09-04T08:53:12.350Z",
   "reviewStatus": "draft",
   "reviewSubmittedBy": "",
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 4,
-  "versionMinor": 12
+  "versionMinor": 13
 }
