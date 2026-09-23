@@ -1,6 +1,6 @@
 {
   "flowId": "sess_1787047768811_a0vgh",
-  "name": "Paint",
+  "name": "Paint Reference",
   "description": "",
   "targetAppName": "navis",
   "tags": "",
@@ -24,7 +24,18 @@
         "width": 16,
         "height": 16
       },
-      "annotations": [],
+      "annotations": [
+        {
+          "type": "arrow",
+          "x1": 197.59036144578312,
+          "y1": 101.20481927710848,
+          "x2": 506.98795180722885,
+          "y2": 258.7951807228916,
+          "color": "#f43f5e",
+          "lineWidth": 3,
+          "id": "ann_1790142983632_294ws"
+        }
+      ],
       "blurRegions": [],
       "metadata": {
         "isKeyboardStep": false,
@@ -1306,11 +1317,10 @@
       "imageFile": "images/step_1787659649800_tupzk.png"
     }
   ],
-  "exportedAt": "2026-09-04T10:45:01.053Z",
   "reviewStatus": "draft",
   "reviewSubmittedBy": "",
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 4,
-  "versionMinor": 13
+  "versionMinor": 14
 }
